@@ -48,3 +48,4 @@ python scanner.py http://target-url.com
 
 This tool is for **authorized testing and educational purposes only**.
 Never scan websites you do not own or have explicit permission to test.
+## Sample Report<img width="796" height="1746" alt="_C__Users_oanga_web-vuln-scanner_report_20260523_091130 html" src="https://github.com/user-attachments/assets/c1bb52ab-ee19-4aac-ae56-b146bc4f14e7" />
